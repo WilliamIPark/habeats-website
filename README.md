@@ -1,3 +1,14 @@
+## Deployment:
+
+The `predeploy` command helps bundle the react app whilst the deploy command fires up the bundled file.
+
+In the terminal, run this command `npm run deploy` OR `yarn run deploy` .This command pushes your built file to the gh-pages branch on your remote repository.
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
